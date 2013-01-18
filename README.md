@@ -26,3 +26,4 @@ Original string resource files are tricky to most non-developer-humans to read/e
 
 Once the translation team finished the task on Google Drive you can Download the result as csv and then use the import routine.
 
+**Note**: The scripts are written in nodejs so you'll need to [install](http://nodejs.org/download/) it.
